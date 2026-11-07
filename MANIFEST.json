@@ -1,0 +1,474 @@
+{
+  "created_at": "2026-11-07T14:01:05.448336+00:00",
+  "note": "Hashes and modes describe the supplied Linux copies, not independently verified Mac originals. SCP copies were taken separately, not atomically.",
+  "sources": {
+    "workspace": "/Users/rwmacmini/RW/governance",
+    "system": "/Library/Governance"
+  },
+  "directories": [
+    "workspace/drafts",
+    "workspace/drafts/S-agent-procedure",
+    "workspace/drafts/S-agent-procedure-amendment",
+    "workspace/drafts/S-registration",
+    "workspace/drafts/S-storage",
+    "workspace/drafts/gate",
+    "workspace/drafts/gate/__pycache__",
+    "workspace/drafts/tools",
+    "workspace/records",
+    "workspace/records/mac-mini",
+    "workspace/records/mini-pc",
+    "workspace/snapshots",
+    "workspace/state",
+    "workspace/stop",
+    "system/authorization",
+    "system/backups",
+    "system/backups/delegation-20261107-235432",
+    "system/bin",
+    "system/gate",
+    "system/register",
+    "system/register/C2026-001",
+    "system/register/S2026-001",
+    "system/register/S2026-002",
+    "system/register/S2026-003",
+    "system/register/S2026-004",
+    "system/run",
+    "system/stop",
+    "system/tools"
+  ],
+  "files": [
+    {
+      "path": "workspace/.DS_Store",
+      "bytes": 6148,
+      "sha256": "e80db33fc821f87b59aa383349368e66a851a9b0fe8caeae27fe37da46c3fef4",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/.DS_Store",
+      "bytes": 6148,
+      "sha256": "69b56a5674f5774f7b1c7d4007a42f0afb9b5cdfe617bd8f656daba57b5e5bbd",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/G-agent-config-delegation.md",
+      "bytes": 2185,
+      "sha256": "1cdcc58fce6e701bdb677d53d502f4c37300d0a1d69e7a51fb33ed59284e312f",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/G-agent-config.md",
+      "bytes": 1597,
+      "sha256": "a2c424c21e00255eadf6f9ef3a1510e514d90ef31d66d00b3c2cde5d686d9c8f",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/G-effective-G2026-003.md",
+      "bytes": 234,
+      "sha256": "8db86f96bdab84af01a3530e61f93ceb8c5cf884d137eaa9615f1845df674992",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/G-master-device.md",
+      "bytes": 203,
+      "sha256": "c92f523b0845a19cceb2e1e85cdedf3b57ca124476140957e9f8ad61ff5a5b91",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/G-storage-config.md",
+      "bytes": 112,
+      "sha256": "513db506f1169b66d2e2ea8be50a948108f9a85d501e2213306f93ec4a2fb08d",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure/asmade.md",
+      "bytes": 1713,
+      "sha256": "23fa18c382cb399cbc00cfc5633e23d001d149b3405d4684b107e334a832f70c",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure/statement.md",
+      "bytes": 1787,
+      "sha256": "77fc861865bf89131348ca0f506aa898315aca3d660cff5351a0cfe3e09c85be",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure-amendment/asmade.md",
+      "bytes": 4234,
+      "sha256": "e95c3991625b78d9934cfc91099e53fd1aeccccc171c12708604f0f7f9c5dd17",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure-amendment/statement.md",
+      "bytes": 3947,
+      "sha256": "656bbf49d5987ee2e25827e70c4082afce466e22aa57017e306f92783d3cb383",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure-amendment/实施与验证.md",
+      "bytes": 3674,
+      "sha256": "bf98610d0e7f23914504f38818b8d98a0e2323d1cc48dfe499024219a5d72bfb",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-agent-procedure-amendment/汇编预览.md",
+      "bytes": 4427,
+      "sha256": "b6d4e10b3e62586ab44ae79aafec44859cd32b4b8f0b90556ee05ad5348db1f7",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-registration/asmade.md",
+      "bytes": 2549,
+      "sha256": "4a55c4244405c2fef27ab4f5e856a38b6a9aaa81f2f9e9311d916386c4219aaa",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-registration/statement.md",
+      "bytes": 1299,
+      "sha256": "b3b13a61b287cebdf0169af6d089ae87783db3c1046645b3b9256c7a78c62328",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-storage/asmade.md",
+      "bytes": 6960,
+      "sha256": "24aaec9178902f8115bee59b213def952e0b4f3b576b86deb3016f3cd482a1b8",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-storage/statement.md",
+      "bytes": 3410,
+      "sha256": "095e7630b8f15afc060a872e156c342665deebd04f987828ef211b1bf50299f3",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/S-storage/目录单.md",
+      "bytes": 32972,
+      "sha256": "12e8b7eba668ffa9c23cee4dba081964438817d13e1818f92353e9ed0cfc5274",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/gate/__pycache__/authorization.cpython-39.pyc",
+      "bytes": 26946,
+      "sha256": "30a59cf6bd1bf6eb8237cbebb84710fb17c35ea04b3ef76146387245995b9ac7",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/gate/authorization.py",
+      "bytes": 32902,
+      "sha256": "448c7664a5a613e973f6db4f80f98ca0561d49514df300c45d46d62a4dc67aea",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/gate/executor.py",
+      "bytes": 932,
+      "sha256": "6bd8e7389f5af6c6642d63199ba71fde16f05281ed71f2f67ee273ba0eb74c17",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/gate/gate.py",
+      "bytes": 22185,
+      "sha256": "8169c22ad7bb2ed1a49cef6adf299c6d2259249d0168ba2f7c067eb58d6c69f5",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/gate/omp-gate.ts",
+      "bytes": 2812,
+      "sha256": "74fe53c059d0b05cf03f4d16f343c19c7edc86517acbef128de942f65a5ac1a7",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/drafts/gate/smoke_authorization.py",
+      "bytes": 9815,
+      "sha256": "4752d80233644bfeb921a30142964726fe87cc6cf368232fd7938dbe4cf2ef55",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/gate/test_authorization.py",
+      "bytes": 7996,
+      "sha256": "eb1d810eee7d70f1a20eb1a430fb25477aea304971fd482537cee14571b4a05e",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/install-delegation.sh",
+      "bytes": 8772,
+      "sha256": "47f8b1e2ecd17a9cfc3aa6c70b06508d7986e12488baa8dcb91230df686180be",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/install.sh",
+      "bytes": 3584,
+      "sha256": "fa1611f471191460a3f3e59bb6059920d63b7ca164f6d130a8826d08e6d8cca1",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/tools/register.py",
+      "bytes": 24420,
+      "sha256": "eb092b104abc4b10f0693e081ab1c1195505210a72bf8fbb24de0ded5c537ad1",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/tools/test_register.py",
+      "bytes": 14116,
+      "sha256": "de2f82d0c0ac3a8bafcce1d0038e6a6761ece977358cdc3c15759a3ef392b27b",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/drafts/try-dbs-action.sh",
+      "bytes": 1325,
+      "sha256": "3abe17450a886d3e8cc346e62e296a51d0af461668e6af09030e2aecbb989093",
+      "mode": "0o755"
+    },
+    {
+      "path": "workspace/records/.DS_Store",
+      "bytes": 6148,
+      "sha256": "b111a9ef8cb6d0671295d95aeeee2f1edb191ba900a79f07a7db478a12d93554",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/records/mac-mini/records.jsonl",
+      "bytes": 88577,
+      "sha256": "9d59c9572cf9af9c8ac4755dd4f1feaeb878dc47c48704686a51d85eac83dce9",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/state/8abde85768ed0786aa7572ff77bfef5f.json",
+      "bytes": 106,
+      "sha256": "c44c4d7ccd7268c1b72a7dfbe214e414b11e75ebbfd003c232157b551c1faad3",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/state/d897daa7d83f8809ab1694286a73e0e8.json",
+      "bytes": 242,
+      "sha256": "ecb4ec03a27f1f602d733cfaeb4e803ce8d3dc645a6c57ee2cc816505003caa7",
+      "mode": "0o644"
+    },
+    {
+      "path": "workspace/stop/requests.jsonl",
+      "bytes": 83,
+      "sha256": "b29b0e84384ab28a3fc4096895c2680418ccd1f4cc7e0042c2de560ad4043539",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/bin/omp",
+      "bytes": 220479632,
+      "sha256": "0adae2a341a1e6840b00c96ce0b1c9d2e0257b1ea6782e4302e17b717a6ffb0a",
+      "mode": "0o755",
+      "parts": [
+        {
+          "path": "large-files/system/bin/omp/part-000",
+          "bytes": 41943040,
+          "sha256": "b919ec93eb45eb0ed9b3eb9a146d4b30a8dce71c20930b04b95b031cdbd0b01b"
+        },
+        {
+          "path": "large-files/system/bin/omp/part-001",
+          "bytes": 41943040,
+          "sha256": "40a878dff06e0001e941b6be58906b4c08c037a167da6679dbba6bcb294e363d"
+        },
+        {
+          "path": "large-files/system/bin/omp/part-002",
+          "bytes": 41943040,
+          "sha256": "54432a9081acefeb8480f7a88e693914422d97e584052a3b94bb72cb02fa0101"
+        },
+        {
+          "path": "large-files/system/bin/omp/part-003",
+          "bytes": 41943040,
+          "sha256": "0a4b0db8f5a3f105090df102117ee5999b3d01ca1968bf986e859b7298000aee"
+        },
+        {
+          "path": "large-files/system/bin/omp/part-004",
+          "bytes": 41943040,
+          "sha256": "77b09541191cc3f15608b51eef6cd9b4bf84682908af7c07470d9892fea777c5"
+        },
+        {
+          "path": "large-files/system/bin/omp/part-005",
+          "bytes": 10764432,
+          "sha256": "8dde8b6c022909dd0258acec06fc789a0e7fcf5fda5bb2a6463d09fa7fa98411"
+        }
+      ]
+    },
+    {
+      "path": "system/gate/authorization-config.json",
+      "bytes": 100,
+      "sha256": "2ca50f6ff8af573d247417721ac09c464194fbebe1c8a9a1805fffba9b2b87b0",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/gate/authorization.py",
+      "bytes": 32902,
+      "sha256": "448c7664a5a613e973f6db4f80f98ca0561d49514df300c45d46d62a4dc67aea",
+      "mode": "0o755"
+    },
+    {
+      "path": "system/gate/executor.py",
+      "bytes": 932,
+      "sha256": "6bd8e7389f5af6c6642d63199ba71fde16f05281ed71f2f67ee273ba0eb74c17",
+      "mode": "0o755"
+    },
+    {
+      "path": "system/gate/gate.py",
+      "bytes": 22185,
+      "sha256": "8169c22ad7bb2ed1a49cef6adf299c6d2259249d0168ba2f7c067eb58d6c69f5",
+      "mode": "0o755"
+    },
+    {
+      "path": "system/gate/omp-gate.ts",
+      "bytes": 2812,
+      "sha256": "74fe53c059d0b05cf03f4d16f343c19c7edc86517acbef128de942f65a5ac1a7",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/C2026-001/asmade.md",
+      "bytes": 2917,
+      "sha256": "2c891c6e36d785b247f463558fddb649e52cd26c8f9e0490f6a1e2373768874f",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/C2026-001/v1.md",
+      "bytes": 2917,
+      "sha256": "2c891c6e36d785b247f463558fddb649e52cd26c8f9e0490f6a1e2373768874f",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-001.md",
+      "bytes": 85,
+      "sha256": "0e91c65551448a50a08a5e9f40f31cc5d47616c4462cc3cb90546656a7677758",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-002.md",
+      "bytes": 250,
+      "sha256": "4e29b21e4561fd013cebed39b918801d9c3da2313f92de20af5435858e5156ec",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-003.md",
+      "bytes": 203,
+      "sha256": "c92f523b0845a19cceb2e1e85cdedf3b57ca124476140957e9f8ad61ff5a5b91",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-004.md",
+      "bytes": 234,
+      "sha256": "8db86f96bdab84af01a3530e61f93ceb8c5cf884d137eaa9615f1845df674992",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-005.md",
+      "bytes": 1597,
+      "sha256": "a2c424c21e00255eadf6f9ef3a1510e514d90ef31d66d00b3c2cde5d686d9c8f",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-006.md",
+      "bytes": 112,
+      "sha256": "513db506f1169b66d2e2ea8be50a948108f9a85d501e2213306f93ec4a2fb08d",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/G2026-007.md",
+      "bytes": 2185,
+      "sha256": "1cdcc58fce6e701bdb677d53d502f4c37300d0a1d69e7a51fb33ed59284e312f",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-001/asmade.md",
+      "bytes": 2549,
+      "sha256": "4a55c4244405c2fef27ab4f5e856a38b6a9aaa81f2f9e9311d916386c4219aaa",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-001/statement.md",
+      "bytes": 1299,
+      "sha256": "b3b13a61b287cebdf0169af6d089ae87783db3c1046645b3b9256c7a78c62328",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-001/v1.md",
+      "bytes": 2549,
+      "sha256": "4a55c4244405c2fef27ab4f5e856a38b6a9aaa81f2f9e9311d916386c4219aaa",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-002/asmade.md",
+      "bytes": 1713,
+      "sha256": "23fa18c382cb399cbc00cfc5633e23d001d149b3405d4684b107e334a832f70c",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-002/statement.md",
+      "bytes": 1787,
+      "sha256": "77fc861865bf89131348ca0f506aa898315aca3d660cff5351a0cfe3e09c85be",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-002/v1.md",
+      "bytes": 1713,
+      "sha256": "23fa18c382cb399cbc00cfc5633e23d001d149b3405d4684b107e334a832f70c",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-002/v2.md",
+      "bytes": 4388,
+      "sha256": "db71eec579db0dabb3d955239b907a87592f389f40a7ecaeff8efb7ccab72ef5",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-003/asmade.md",
+      "bytes": 6960,
+      "sha256": "24aaec9178902f8115bee59b213def952e0b4f3b576b86deb3016f3cd482a1b8",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-003/statement.md",
+      "bytes": 3410,
+      "sha256": "095e7630b8f15afc060a872e156c342665deebd04f987828ef211b1bf50299f3",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-003/v1.md",
+      "bytes": 6960,
+      "sha256": "24aaec9178902f8115bee59b213def952e0b4f3b576b86deb3016f3cd482a1b8",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-004/asmade.md",
+      "bytes": 4234,
+      "sha256": "e95c3991625b78d9934cfc91099e53fd1aeccccc171c12708604f0f7f9c5dd17",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-004/statement.md",
+      "bytes": 3947,
+      "sha256": "656bbf49d5987ee2e25827e70c4082afce466e22aa57017e306f92783d3cb383",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/S2026-004/v1.md",
+      "bytes": 4234,
+      "sha256": "e95c3991625b78d9934cfc91099e53fd1aeccccc171c12708604f0f7f9c5dd17",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/chain.log",
+      "bytes": 8638,
+      "sha256": "ee00fa414b7e19f7b00176722d2f35fd60b29b31cbc14bd06a4c198d7f20fd30",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/register/index.yaml",
+      "bytes": 3940,
+      "sha256": "05a3d31e527214aabfec7ce1df4190d8840f951d5e36869bff13adcddf2f1b05",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/stop/clears.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "0o644"
+    },
+    {
+      "path": "system/tools/register.py",
+      "bytes": 24420,
+      "sha256": "eb092b104abc4b10f0693e081ab1c1195505210a72bf8fbb24de0ded5c537ad1",
+      "mode": "0o755"
+    }
+  ]
+}
